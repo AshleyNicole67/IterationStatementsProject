@@ -46,9 +46,7 @@ namespace IterationStatements
                 // Your code goes here
             }
             
-
-
-            // This is to show the user that the numbers will start increasing on the console
+            
             Console.WriteLine("Increase:");
 
 
